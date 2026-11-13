@@ -1,3 +1,8 @@
+> **Atlas-WorkSwarms · AtlasHub.SI technical track** · [About this integration](ATLAS.md) · [Legal](LEGAL.md)  
+> Atlas curator: [SergioMonteiro-Atlas](https://github.com/sergiomonteiro-atlas). Original upstream: [ruvnet/ruflo](https://github.com/ruvnet/ruflo). Retains the original MIT (ruvnet) license and author attribution; this is **not** a claim that upstream was created by AtlasHub.SI.
+
+---
+
 <div align="center">
 
 <a href="https://cognitum.one/agentic-engineering"><img src="ruflo/assets/ruflo-neon-flicker.gif" alt="Ruflo animated neon sign" width="100%"></a>
